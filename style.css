@@ -6,7 +6,7 @@
 }
 
 body {
-  font-size: 1.2 rem;
+  font-size: 1.3 rem;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -37,12 +37,12 @@ body {
 }
 
 .hero h4 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
 }
 
 .hero p {
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 
@@ -467,7 +467,7 @@ body {
 /* tablet */
 @media (max-width: 768px) {
   html {
-    font-size: 70%;
+    font-size: 80%;
   }
 
   .mynavbar .nav-link {
@@ -491,7 +491,7 @@ body {
 /* hp */
 @media (max-width: 500px) {
   html {
-    font-size: 65%;
+    font-size: 70%;
   }
 
   /* .home .container {
