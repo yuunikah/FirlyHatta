@@ -160,7 +160,7 @@ body {
   padding-bottom: 8rem;
 }
 
-.info h2, .RSVPCom h3  {
+.info h2  {
   color: white;
   font-family: var(--fontwrite);
   font-size: 4rem;
@@ -335,6 +335,14 @@ body {
   background-color: #b16868;
   padding-top: 7rem;
   padding-bottom: 4rem;
+}
+
+.RSVPCom h3  {
+  color: white;
+  font-family: var(--fontwrite);
+  font-size: 3.5rem;
+  text-shadow: var(--shadow);
+  text-align: center;
 }
 
 .RSVPCom button {
